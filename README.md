@@ -1,0 +1,2 @@
+# Favour-exchange-app
+A final project of our Android academic course , the app is like a give and take favours market. Users set their deals with points instaed of money , doing a favour gain you its price  , asking for a one and lose some points in exchange . A bonus you can chat with the "buyer" or with the "seller" right before the deal is done. Using FireBase for authentication and storing all users data and their activity
